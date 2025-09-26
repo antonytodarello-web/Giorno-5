@@ -1,0 +1,36 @@
+
+body { 
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+    }
+
+    .bobby{ 
+     margin: 0;
+    width: auto;
+    height: auto;
+    box-sizing: content-box;
+    text-align: center;
+    margin-bottom: 0;
+    background-color:black ;
+   padding: 7%;
+  
+    background-position: center center;
+
+}
+
+.Barca{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+      width: 400px;
+    height: 300px;
+    overflow: hidden;
+    background-position: center center;
+    background-image: url(../banner.jpg);
+    padding: 15px;
+}
+h3 {
+    color: rgb(0, 106, 255);
+}
