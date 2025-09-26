@@ -1,36 +1,96 @@
 
 body { 
-    text-align: center;
-    margin-left: 30%;
-    margin-right: 30%;
+    text-align: center;}
+
     
+    
+    header main footer{
+        width: 50%;
+        margin: 0 auto;
+        margin-right: auto;
+        margin-left: auto;
     }
+    
 
     .bobby{ 
-     margin: 0;
-    width: auto;
-    height: auto;
-    box-sizing: content-box;
-    text-align: center;
-    margin-bottom: 0;
-    background-color:black ;
-   padding: 7%;
-  
-    background-position: center center;
-
+        text-align: center;
+     background-color: black;
+margin: auto;
+    padding:3%;
 }
 
 .Barca{
     text-align: center;
     margin-right: auto;
     margin-left: auto;
-      width: 400px;
-    height: 300px;
-    overflow: hidden;
+      width: 300px;
+    height: 200px;
     background-position: center center;
     background-image: url(../banner.jpg);
-    padding: 15px;
+    
 }
-h3 {
+#casa {
     color: rgb(0, 106, 255);
+}
+#pacco{
+color: rgb(0, 106, 255);
+}
+#cavolo{
+    background-color: rgb(255, 106, 0);
+}
+#faro{
+    color: rgb(0, 106, 255);
+}
+#pane{
+    color: rgb(0, 106, 255);
+}
+.birra{
+    width: 400;
+    height: 400;
+    border-radius: 60%;
+}
+.occhio{
+    background-color: rgb(248, 45, 5);
+    margin-right: auto;
+    margin-left: auto;
+}
+.tipo{
+    border-left: 1px;
+    border-right: 1px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+   
+    margin-bottom: 3px;
+}
+#viola{
+    color: rgb(0, 106, 255);
+}
+.paolo{
+    border-left: 1px;
+    border-right: 1px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+   
+    margin-bottom: 3px;
+}
+#vento{
+    color: rgb(0, 106, 255);
+}
+.baro{
+    border-left: 1px;
+    border-right: 1px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+   
+    margin-bottom: 3px;
+}
+#vetri{
+    color: rgb(0, 106, 255);
+}
+.cubo{
+    background-color: aqua;
+    
 }
